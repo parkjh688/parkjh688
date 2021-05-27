@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Junghyun</h1>
 
-Hi Guys, Welcome to my humble and cozy GitHub place. 
-I'm Computer Vision Machine Learning Engineer&Researcher at SSG.COM in South Korea.
+Hi Guys, Welcome to my humble and cozy GitHub place. </br>
+I'm Computer Vision Machine Learning Engineer & Researcher at SSG.COM in South Korea.
 
 **Machine Learning Engineer**
 - 🔭 I’m currently working on Computer Vision projects
