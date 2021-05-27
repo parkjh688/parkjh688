@@ -1,4 +1,4 @@
-<h1 align="center"Hi there 👋, I'm Junghyun<h1>
+<h1 align="center"Hi there 👋, I'm Junghyun</h1>
 
 Hi Guys, Welcome to my humble and cozy GitHub place. I'm Computer Vision Machine Learning Engineer&Researcher at SSG.COM in South Korea.
 
