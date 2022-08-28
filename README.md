@@ -5,8 +5,9 @@ I'm Computer Vision Machine Learning Engineer & Researcher at SSG.COM in South K
 
 **Machine Learning Engineer**
 - 🔭 I’m currently working on Computer Vision projects
-- 🌱 I’m currently learning MLOps, Golang
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on any cool ML/DL projects
+- 😊 I like history and maps
 - 🦄 I'm a community organizer at [keras Korea](https://www.facebook.com/groups/KerasKorea)
 - ⚡ Fun fact: I work in computer vision now, but once I was a NLP engineer who made chatbot builder.
 - 📫 How to reach me: parkjh688@gmail.com
